@@ -1,4 +1,4 @@
-# Task 3.1 (Variant): Cafeteria Meal Review API
+# Task 2.2 (Variant): Cafeteria Meal Review API
 
 You are building the backend for a cafeteria meal review service, using Express and MongoDB (Mongoose) only, with no frontend. Anyone can browse and submit meal reviews, and there is no login for this resource.
 
