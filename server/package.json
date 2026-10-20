@@ -6,7 +6,9 @@
     "dev": "nodemon src/index.js",
     "start": "node src/index.js",
     "test": "NODE_OPTIONS=--experimental-vm-modules jest --runInBand",
-    "grade": "NODE_OPTIONS=--experimental-vm-modules jest --runInBand --verbose"
+    "grade": "NODE_OPTIONS=--experimental-vm-modules jest --runInBand --verbose",
+    "seed": "node src/seed.js"
+    
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
